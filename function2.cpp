@@ -1,7 +1,7 @@
 #include <iostream>
 #include "function2.h"
 using namespace std;
-int knapSack(int W, int wt[], int val[], int n)
+int function2(int W, int wt[], int val[], int n)
 {
   int knapSack(int W, int wt[], int val[], int n)
     return 0;
